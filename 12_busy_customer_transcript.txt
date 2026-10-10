@@ -1,0 +1,10 @@
+agent: Hello, I’m {{agent_name}}, a virtual assistant calling from {{company_name}}. Am I speaking with {{customer_name}}?
+user: I'm busy right now. Can you call me? 
+user: back later? 
+agent: Sure. What time would be convenient for a callback?
+user: Please call me tomorrow at eleven AM. 
+agent: All right, I’ll note a callback for tomorrow, Sunday, October 11, at 11 AM. Is that okay?
+user: Yes. Okay. Thank you. 
+agent: Thank you. We’ll call you tomorrow, Sunday, October 11, at 11 AM. Have a good day.
+user: Thank you. 
+agent: You're welcome. Goodbye.
