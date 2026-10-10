@@ -1,0 +1,9 @@
+agent: Hello, this is {{agent_name}}, a virtual assistant calling from {{company_name}}. Am I speaking with {{customer_name}}?
+user: Yes. This is. 
+agent: Thanks. As an existing customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. This is a preliminary check, not final approval. Would you like to check your eligibility?
+user: Yes. Please check my eligibility. 
+agent: Is the property residential, commercial, or industrial?
+user: I it's I wanna, like, agricultural land. 
+agent: I’m sorry, agricultural land isn’t eligible for this specific offer at this time. Thank you for your time.
+user: Thank you. 
+agent: You’re welcome. Take care.

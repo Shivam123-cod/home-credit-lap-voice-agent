@@ -1,0 +1,19 @@
+agent: Hello, I’m calling from {{company_name}}. May I speak with {{customer_name}}?
+user: You are speaking with Rahul Sharma. 
+agent: Hi Rahul, I’m calling from {{company_name}} to thank you for being an existing customer. We have a special Loan Against Property offer of up to ₹75 lakh, subject to preliminary eligibility and final approval. Would you like to check your eligibility?
+user: I would like to check. 
+agent: What type of property would you like to use—residential, commercial, or industrial?
+user: I have a residential house. 
+agent: Is the house solely owned by you, or jointly owned with 
+user: It's 
+agent: someone else?
+user: solely on me. 
+agent: Do you have the original property documents available for verification?
+user: Yes. The original documents are available. 
+agent: How much would you like to borrow?
+user: I need forty lakh rupees. 
+agent: What is your occupation, and do you receive your income through a bank account?
+user: I'm self employed, uh, and I received my, uh, business income in cash. 
+agent: I’m sorry, but income received in cash doesn’t meet the criteria for this offer at this time. Thank you for your time.
+user: Thank you. 
+agent: You’re welcome. Have a good day.

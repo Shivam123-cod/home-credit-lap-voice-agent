@@ -1,0 +1,13 @@
+agent: Hello, I’m {{agent_name}}, a virtual assistant calling from {{company_name}}. Am I speaking with {{customer_name}}?
+user: This is Raul Sharma. 
+agent: Thanks, Raul. As an existing customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. This is only a preliminary check, not final approval. Would you like to check your eligibility?
+user: Yes, please. 
+agent: What type of property do you have: a house or flat, shop or office, factory, or agricultural land?
+user: Our residential flat. 
+agent: Is the flat solely owned by you or jointly owned with someone else?
+user: It's solely owned by me. 
+agent: Do you have the original property documents available for verification?
+user: I only have photocopies. I don't have the original documents available for verification. 
+agent: I’m sorry, but original property documents are required for this specific offer, so you don’t meet the preliminary criteria at this time. Thank you for your time.
+user: Okay. Thank you. 
+agent: You’re welcome. Have a good day.

@@ -1,0 +1,25 @@
+agent: Hello, I’m {{agent_name}}, a virtual assistant calling from {{company_name}}. May I speak with {{customer_name}}?
+user: This is Shivam. 
+agent: Thanks, Shivam. As an existing customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. It’s a preliminary check, not final approval. Would you like to check your eligibility?
+user: Yes. 
+user: please. 
+agent: What type of property do you have—residential, commercial, or industrial?
+user: Our residential house. 
+agent: Is the house solely owned by you or jointly owned?
+user: The house is jointly owned by me and my brother. 
+agent: Do you have the original property documents available for verification?
+user: The documents are available. 
+agent: How much loan would you like to borrow?
+user: I would like to borrow forty lakh rupees. 
+agent: What do you do for work, and is your income received through a bank account?
+user: I'm a salaried employee, and my salary is credited to my bank account. 
+agent: What’s the estimated current market value of the house?
+user: And the estimated current approximately, it's eighty lakh rupees. 
+agent: How many years would you like to take to 
+user: I would like to 
+agent: repay the loan?
+agent: How 
+user: like a tenure of seven years. 
+agent: Thanks. You’ve completed the preliminary eligibility check: a jointly owned residential house, original documents available, ₹40 lakh requested, salaried income credited through a bank, estimated value of ₹80 lakh, and a seven-year tenure. This isn’t final approval. A senior loan expert will contact you shortly to discuss next steps and applicable interest rates.
+user: Okay. Thank you. 
+agent: You’re welcome. Have a good day.

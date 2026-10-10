@@ -1,0 +1,16 @@
+agent: Hello, I’m {{agent_name}} calling from {{company_name}}. May I speak with {{customer_name}}?
+user: Yes. This is the Shivam. 
+agent: Thanks, Shivam. As an existing customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. It’s a preliminary check, not final approval. Are you interested in checking eligibility?
+user: Yes. I would like to check. 
+agent: What type of property do you have: a house or flat, shop or office, factory, or agricultural land?
+user: I have a residential house. 
+user: But before we continue, the I I would like to say that our residential house worth approximately one crore rupees and it's jointly owned by me and my wife. 
+agent: Is the original property document available for verification?
+user: Yes. The original documents are available, and I need fifty lakh rupees against the property. 
+agent: How are you employed—salaried or self-employed—and does your income come through a bank account?
+user: I'm a salary employee, and my salary is credited to my bank account. 
+agent: What repayment tenure would you prefer, between 3 and 15 years?
+user: I would like to prefer the tenure of ten years. 
+agent: Thanks, Shivam. You’ve completed the preliminary check: a jointly owned residential house, original documents available, ₹50 lakh requested, salaried income credited to your bank, estimated value around ₹1 crore, and a 10-year tenure. This isn’t final approval. A senior loan expert will contact you shortly to discuss next steps and applicable interest rates.
+user: Okay. Thank you. 
+agent: You’re welcome. Have a good day.

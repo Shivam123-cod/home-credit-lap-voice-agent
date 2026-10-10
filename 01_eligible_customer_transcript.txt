@@ -1,0 +1,29 @@
+agent: Hello, I’m calling 
+user: (unintelligible audio)
+agent: from {{company_name}}. May I speak with {{customer_name}}?
+user: This is Shivam. 
+agent: Hi Shivam, I’m calling from {{company_name}}. Is this a good time to speak?
+user: Oh, yes. It's a good time to speak. 
+agent: As an existing customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. This is a preliminary check, not final approval. Would you like to check your eligibility?
+user: Yes. I would like to check my eligibility. 
+agent: What type of property do you have: a house or flat, shop or office, factory, or agricultural land?
+user: I have a residential flat. 
+agent: Is the flat solely owned by you, or jointly owned with someone else?
+user: It is solely owned by me. 
+agent: Do you have the original property documents available for verification?
+user: Yes. I have the original documentations available for verification. 
+agent: How much would you like to borrow?
+user: I need fifty lakh rupees. 
+agent: What do you do for work, and is your income credited through a bank account?
+user: I am a salaried employee. 
+agent: Is your salary credited through a bank account?
+user: Yes. My salary is credited directly to my bank account. 
+agent: What’s the estimated current market value of your flat?
+user: I think the estimated market value is one crore rupees. 
+agent: How many years would you like to take to repay 
+user: I 
+agent: the loan?
+user: would like to take a tenure of ten years. 
+agent: Thanks. You’ve completed the preliminary eligibility check: a solely owned residential flat, original documents available, ₹50 lakh requested, salaried income credited through a bank, estimated property value of ₹1 crore, and a 10-year tenure. This isn’t final approval; a senior loan expert will contact you shortly to discuss next steps and applicable rates.
+user: Thank you. 
+agent: You’re welcome. Have a good day.

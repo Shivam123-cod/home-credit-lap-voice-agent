@@ -1,0 +1,21 @@
+agent: Hello, this is {{agent_name}} calling from {{company_name}}. Am I speaking with {{customer_name}}?
+user: You are speaking with Rohit. 
+agent: Thanks, Rohit. I’m calling from {{company_name}} to share a special Loan Against Property offer of up to ₹75 lakh for existing customers. It’s a preliminary eligibility check, not final approval. Are you interested in checking eligibility?
+user: Yes, please. 
+agent: What type of property do you have: a house 
+user: Residency allows 
+agent: Is the property solely owned by you or jointly owned with someone else?
+user: It's solely owned by me. 
+agent: Are the original property documents available for verification?
+user: Yes. The original document are available, and I need thirty lakh rupees. 
+agent: How do you work—are you salaried or self-employed, and is your income received through a bank?
+user: I'm a sales employee, and my business income currently my bank directly. And what of the flat is seventy lakh rupees. 
+agent: What repayment tenure would you prefer, between 3 and 15 years?
+user: No. I would like repay the loan over twenty years. 
+agent: The available repayment tenure is 3 to 15 years. Would you like to choose a tenure 
+user: No. It's not 
+agent: within that range?
+user: possible for me to pay between three to fifteen years. 
+agent: I’m sorry, but this specific offer requires a repayment tenure between 3 and 15 years, so you don’t meet the criteria at this time. Thank you for your time.
+user: Okay. Thank you. Thank you so much. 
+agent: You’re welcome. Take care.

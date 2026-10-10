@@ -1,0 +1,27 @@
+agent: Hello, I’m {{agent_name}} calling from {{company_name}}. Am I speaking with {{customer_name}}?
+user: Yes. This is Alexa. 
+agent: Yeah, thanks, Alexa. As an existing customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. This is only a preliminary check, not final approval. Would you like to check your eligibility?
+user: Yes. I would like to check my eligibility. 
+agent: What type of property would you like to use—residential, commercial, or industrial?
+user: I have a residential flash. 
+agent: Is the residential flat solely owned by you, or jointly owned?
+user: It's solely owned by me. 
+agent: Do you have the original property documents available for verification?
+user: Yes. The original documents are available. 
+agent: How much would you like to borrow?
+user: I need fifty lakh rupees. 
+agent: How are you employed—salaried or self-employed?
+user: I'm a salaried employee. 
+agent: How do you receive your salary—through a bank account or in cash?
+user: My salary is credited to my bank account. 
+agent: What’s the estimated current market value of your residential flat?
+user: It is what approximately one crore rupees. 
+agent: How many years would you like to take to 
+user: Want to repeat the 
+agent: repay the loan?
+user: loan in two years. 
+agent: The available repayment tenure is 3 to 15 years. Would you like to choose a tenure within that range?
+user: No. I want to pay in only in two years. 
+agent: I’m sorry, but this offer requires a repayment tenure between 3 and 15 years, so you don’t meet the criteria at this time. Thank you for your time.
+user: Thank you. 
+agent: You’re welcome. Have a good day.

@@ -1,0 +1,15 @@
+agent: Hello, I’m {{agent_name}}, a virtual assistant calling from {{company_name}}. Am I speaking with {{customer_name}}?
+user: Yeah. This is a Shivam. 
+agent: Hi Shivam, I’m calling from {{company_name}} to thank you for being an existing customer. We have a special Loan Against Property offer of up to ₹75 lakh, subject to preliminary eligibility and final approval. Would you like to check your eligibility?
+user: Yes. I would like to know about the office. 
+agent: Do you mean a commercial office property for the loan?
+user: No. I would like to know about the offers. 
+agent: This offer is for a Loan Against Property of up to ₹75 lakh. It’s a preliminary eligibility check, not final approval; a senior loan expert can explain rates and full terms after reviewing your details. Is your property a house, flat, shop, office, factory, or agricultural land?
+user: It's a house. 
+agent: Is the house solely owned by you, or jointly owned?
+user: Yes. It's solely owned by me. 
+agent: Do you have the original property documents available for verification?
+user: Yes. I have the original documents for verification, but I already have a loan against this property. I would like to discuss my options. 
+agent: A loan-transfer specialist will contact you shortly to discuss your options. Thank you for your time.
+user: Thank you. 
+agent: You’re welcome. Have a good day.

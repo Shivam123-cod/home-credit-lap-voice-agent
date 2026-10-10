@@ -1,0 +1,15 @@
+agent: Hello, I’m {{agent_name}}, a virtual assistant calling from {{company_name}}. Am I speaking with {{customer_name}}?
+user: You are speaking with Shivam. 
+agent: Yes, thank you, Shivam. As an existing customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. This is a preliminary check, not final approval. Would you like to check your eligibility?
+user: Yes. I would like to check. My eligibility. 
+agent: What type of property do you have: a house or flat, shop or office, factory, or agricultural land?
+user: I owe a residential property. 
+agent: Is the residential property solely owned by you, or jointly owned?
+user: It's solely owned by me. 
+agent: Do you have the original property documents available for verification?
+user: Yes. I have the original document. 
+agent: How 
+user: But, uh, actually, already have a loan against the property, and I want to reduce my existing EMI. 
+agent: A loan-transfer specialist will contact you shortly to discuss reducing your existing EMI. Thank you for your time.
+user: Okay. Thank you. 
+agent: You’re welcome. Goodbye.
