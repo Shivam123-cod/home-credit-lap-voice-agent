@@ -1,0 +1,25 @@
+agent: Hello, I'm a virtual assistant calling from Home Credit. Am I speaking with the customer?
+user: Yes. You are speaking with Shivam. 
+agent: Thank you. I'm calling about a special Loan Against Property offer of up to seventy-five lakh rupees. Is this a convenient time to talk?
+user: Yes. It's a convenient time to talk. 
+agent: What type of property would you like to use as security: residential, commercial, or industrial?
+user: I would like to use a residential property. 
+agent: Is the property solely owned by you, or jointly owned with someone else?
+user: It's solely owned by me. 
+agent: Are the original property documents available with you?
+user: Yes. 
+agent: How much would you like to borrow?
+user: I'd like to borrow fifty lakh rupees. 
+agent: Are you salaried or self-employed?
+user: I'm a salary 
+agent: Sorry, I didn't catch that clearly. Are you salaried or self-employed?
+user: I'm a salaried employee. 
+agent: Do you receive your income through a bank account or in cash?
+user: Yes. I I receive my income through bank account. 
+agent: What is the approximate current market value of the property?
+user: The approximate current market will the properties are near about one point two CR. 
+agent: And how many years would you prefer for repayment?
+user: I'd prefer the tenure of ten years. 
+agent: Thank you for sharing those details. Based on the preliminary information you've provided, you meet the initial screening requirements. A senior loan expert will contact you to discuss the next steps and the applicable interest rate.
+user: Thank you. 
+agent: You're welcome. Have a good day.
