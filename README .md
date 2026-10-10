@@ -104,3 +104,15 @@ The public log URLs provide access to call execution logs, while the scrubbed re
 - Call logs and recording URLs: `retell_call_logs.csv`
 - Test recordings: Audio files (`.wav`)
 - Test transcripts: Text files (`.txt`)
+
+
+## Retell AI Agent Links
+
+- **Shareable Agent Link: https://agent.retellai.com/orb/agent_18d65aad1ead5ac977e323f1f6?token=b7a78c9e941f490b8bddabf47aa03625
+- **Preview and Testing Link: https://agent.retellai.com/preview/agent_18d65aad1ead5ac977e323f1f6
+
+## Call Logs and Recordings
+
+See `retell_call_logs.csv` for call metadata and the associated log and recording URLs.
+
+Test recordings and transcripts are included in this repository.
