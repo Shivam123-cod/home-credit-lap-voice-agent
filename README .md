@@ -85,3 +85,22 @@ The complete system prompt used to configure the agent is available in `system_p
 
 ## Disclaimer
 This is an AI voice agent assignment demonstrating conversational design and preliminary qualification logic. It does not constitute a final loan approval or a binding financial offer.
+
+## Call Logs and Recordings
+
+Call logs, recording URLs, and call metadata exported from Retell AI are provided in `retell_call_logs.csv`.
+
+Test audio recordings and conversation transcripts are available in this repository.
+
+The CSV contains the public log URLs, scrubbed recording URLs, and recording URLs for the corresponding calls.
+
+The public log URLs provide access to call execution logs, while the scrubbed recording URLs can be used to access the call recordings and conversation content.
+
+## Deliverables
+
+- System prompt: `system_prompt.txt`
+- Test results: `test_results.md`
+- Approach document: `approach_document.md`
+- Call logs and recording URLs: `retell_call_logs.csv`
+- Test recordings: Audio files (`.wav`)
+- Test transcripts: Text files (`.txt`)
